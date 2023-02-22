@@ -1,1 +1,18 @@
 #code goes here
+email = "harvttv@gmail.com"
+
+name = "harvey"
+console= "xbox"
+age = 69
+#above are 2 variables
+#one is called "email"
+#other is called name 
+#both contain data
+
+print (email)
+print(name)
+print(console)
+print (age)
+
+#print is a function
+#it displays text to the screen
