@@ -1,1 +1,11 @@
 # add code here
+name = str(input("enter name:"))
+print(name)
+
+age= int(input("enter age"))
+
+print (age)
+
+favouritecar = str(input("whats your favourite car"))
+
+print(favouritecar)
