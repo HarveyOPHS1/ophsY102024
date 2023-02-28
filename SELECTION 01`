@@ -1,0 +1,9 @@
+#Selection
+
+Team1points = 0 
+Team2points = 10
+if Team1points > 0:
+  print("you are on the comeback")
+
+if Team2points or Team1points > 20:
+  print("YOU_WIN!")
