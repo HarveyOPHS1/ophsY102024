@@ -1,0 +1,7 @@
+name=str(input("enter your name"))
+nameNO2=str(input("enter your name"))
+nameNO3=str(input("enter your name "))
+
+print (len (name))
+print (len (nameNO2))
+print (len (nameNO3))
