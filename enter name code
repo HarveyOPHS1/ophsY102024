@@ -1,0 +1,7 @@
+name = str(input("enter your first name please:"))
+if len(name)<7:
+  surname = input("enter your surname name:")
+  name =  name+surname
+  print(name.upper())
+else:
+  print(name.lower())
