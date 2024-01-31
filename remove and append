@@ -1,0 +1,28 @@
+# remove and append shopping list
+# this is used to remove and add items to a list
+
+
+
+
+
+shopping = []
+
+print(shopping)
+
+shopping.append("bread")
+
+print(shopping)
+
+shopping.append("milk")
+
+print(shopping)
+
+shopping.append("orange juice")
+
+print(shopping)
+
+shopping.remove("orange juice")
+
+print(shopping)
+
+
